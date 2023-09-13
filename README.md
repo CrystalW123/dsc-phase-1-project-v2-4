@@ -66,31 +66,47 @@ The above diagram shows ONLY the IMDB data.
 
 These visualizations seek to explain the conclusions of each objective
 
-From the first objective there is a chart representing the top 5 movies in general and the top 10 most succesful films from 2015:
+**From the first objective there is a chart representing the top 5 movies in general and the top 10 most succesful films from 2015:**
 
-![Top 5 movies](C:\Users\Crystal\Documents\Course-Materials\Section-1\Projectimages\Top five movies.png)
+![Top 5 movies](Top five movies.png)  
 
-![Top 10 most succesful films](C:\Users\Crystal\Documents\Course-Materials\Section-1\Projectimages\Top succesful films from 2015.png) 
+The movies are almost at the same level but we can see one with a significant difference The Avengers movie, there could be so many factors that pushed this movie to the top  and was the beginning of a series as can be seen Avengers: Age of Ultron follows, followed by Black Panther. The success of the Avengers might have caused a chain reaction of some sort. 
+
+![Top 10 most succesful films](Top succesful films from 2015.png)  
+
+From this we can conclude that the most successful film was the Avengers whether it was a series or a movie adopted from the series character, this type of film looks to resonate best with the majority and had a high gross income.
 
 
-From the second objective there is a scatter plot showing the relationship between profit and production budget:
+**From the second objective there is a scatter plot showing the relationship between profit and production budget:**
 
-![Profit Vs Production Budget](C:\Users\Crystal\Documents\Course-Materials\Section-1\Projectimages\Production budget Vs Profit.png)  
+![Profit Vs Production Budget](Production budget Vs Profit.png)  
 
-From the third and last objective there are other bar charts representing the genres count and the genres with highest votes respectively:
+Looks like there is correlation between the two,the average production budget and the average profit. 
 
-![Genre Counts](C:\Users\Crystal\Documents\Course-Materials\Section-1\Projectimages\Genre Counts.png)
+**From the third and last objective there are other bar charts representing the genres count and the genres with highest votes respectively:**
 
-![Genre Number Of Votes](C:\Users\Crystal\Documents\Course-Materials\Section-1\Projectimages\Genre Number Of votes.png)
+![Genre Counts](Genre Counts.png)
 
+It looks like the Drama genre appeared the most whether as a stand alone or with other genres, followed by the comedy, then Documentary and also Action genre is a bit high.
+
+![Genre Number Of Votes](Genre Number Of votes.png)
+
+From the above the movies with the genre type Drama, Action as part of the overall genre resonate best with the audience. So, it is a good idea to follow this trend, producing movies in this genre.
 
 ## CONCLUSION  
 
-As you start the new movie studio from the analysis of the most successful film, The Avengers film is a good example of film to look at, with a bit of research I found that the storyline was what captivated the audience, and also after that the movies from that one, were also successful which we also saw in the Star Wars film. I would suggest once a film you produce is successful, consider producing another film related to the first one if possible.  
+As you start the new movie studio from the analysis of the most successful film, The Avengers film is a good example of film to look at, with a bit of research I found that the storyline was what captivated the audience, and also after that the movies from that one movie (in other words the series) were also successful which we also saw in the Star Wars film. I would suggest once a film you produce is successful, consider producing another film related to the first one if possible.  
 
 From the analysis of the most successful studio and why it was successful I recommend producing as many movies as possible but also on the production budget, allocate enough money for the production of the film. As seen the production budget correlates highly with the profit made more than the number of movies made correlates with the total gross income. Focus on what is more important and here it is the production.  
 
 From the analysis of genre, focus on movies with the genre type Drama, Action, Comedy as seen these were the best three genres and also the most produced
 
-To conclude I leave a quote, “TO BE A FILMMAKER, YOU HAVE TO LEAD. YOU HAVE TO BE PSYCHOTIC IN YOUR DESIRE TO DO SOMETHING. PEOPLE ALWAYS LIKE THE EASY ROUTE. YOU HAVE TO PUSH VERY HARD TO GET SOMETHING UNUSUAL, SOMETHING DIFFERENT.”
-- Danny Boyle
+This analysis can be found on the student.ipynb file and in the presentation.pdf.
+
+To conclude I leave two quotes,
+
+“Too often we forget that genius, too, depends upon the data within its reach, that even Archimedes could not have devised Edison’s inventions.”
+~ Ernest Dimnet  
+
+"To be a filmaker, you have to lead, you have to be psychotic in your desire to do something. People always like the easy route. You have to push very hard to get something unusual,something different."
+~ Danny Boyle
