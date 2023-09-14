@@ -68,7 +68,7 @@ These visualizations seek to explain the conclusions of each objective
 
 **From the first objective there is a chart representing the top 5 movies in general and the top 10 most successful films from 2015:**
 
-![Top 5 movies](Top five movies.png)  
+![Top five movies](https://github.com/CrystalW123/dsc-phase-1-project-v2-4/assets/141912458/b14d1fda-9931-496b-9fad-ffb4f5c93661)  
 
 The movies are almost at the same level but we can see one with a significant difference The Avengers movie, there could be so many factors that pushed this movie to the top  and was the beginning of a series as can be seen in Avengers: Age of Ultron follows, followed by Black Panther. The success of the Avengers might have caused a chain reaction of some sort. 
 
