@@ -85,7 +85,7 @@ Looks like there is correlation between the two,the average production budget an
 
 **From the third and last objective there are other bar charts representing the genres count and the genres with highest votes respectively:**
 
-![Genre Counts](Genre Counts.png)
+![Genre Counts](https://github.com/CrystalW123/dsc-phase-1-project-v2-4/assets/141912458/89da4a4c-42db-4241-992a-7d0dd2d2912a)
 
 It looks like the Drama genre appeared the most whether as a stand alone or with other genres, followed by the comedy, then Documentary and also Action genre is a bit high.
 
