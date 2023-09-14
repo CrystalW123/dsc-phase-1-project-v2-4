@@ -89,7 +89,7 @@ Looks like there is correlation between the two,the average production budget an
 
 It looks like the Drama genre appeared the most whether as a stand alone or with other genres, followed by the comedy, then Documentary and also Action genre is a bit high.
 
-![Genre Number Of Votes](Genre Number Of votes.png)
+![Genre Number of votes](https://github.com/CrystalW123/dsc-phase-1-project-v2-4/assets/141912458/6774af34-0baa-41e6-af51-710fb6ec150a)
 
 From the above the movies with the genre type Drama, Action as part of the overall genre resonate best with the audience. So, it is a good idea to follow this trend, producing movies in this genre.
 
