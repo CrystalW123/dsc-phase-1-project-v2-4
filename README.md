@@ -79,7 +79,7 @@ From this we can conclude that the most successful film was the Avengers whether
 
 **From the second objective there is a scatter plot showing the relationship between profit and production budget:**
 
-![Profit Vs Production Budget](Production budget Vs Profit.png)  
+![Production budget Vs Profit](https://github.com/CrystalW123/dsc-phase-1-project-v2-4/assets/141912458/3a6ce696-caa4-416e-9181-4709b5268097)  
 
 Looks like there is correlation between the two,the average production budget and the average profit. 
 
