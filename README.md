@@ -95,13 +95,14 @@ From the above the movies with the genre type Drama, Action as part of the overa
 
 ## CONCLUSION  
 
-As you start the new movie studio from the analysis of the most successful film, The Avengers film is a good example of film to look at, with a bit of research I found that the storyline was what captivated the audience, and also after that the movies from that one movie (in other words the series) were also successful which we also saw in the Star Wars film. I would suggest once a film you produce is successful, consider producing another film related to the first one if possible.  
+As you start the new movie studio from the analysis of the most successful film, The Avengers film is a good example of film to look at, with a bit of research I found that the storyline was what captivated the audience, and also after that the movies from that one movie (in other words the series) were also successful which we also saw in the Star Wars film. I would suggest once a film you produce is successful, consider producing another film related to the first one if possible. People are bound to watch the second one if they enjoyed the first one. Use characters that are known in the cinematic universe and make the movie your own.This will make people more familiar with the characters, creating a huge audience.  
 
-From the analysis of the most successful studio and why it was successful I recommend producing as many movies as possible but also on the production budget, allocate enough money for the production of the film. As seen the production budget correlates highly with the profit made more than the number of movies made correlates with the total gross income. Focus on what is more important and here it is the production.  
+From the analysis of the most successful studio and why it was successful I recommend producing as many movies as possible but also on the production budget, allocate enough money for the production of the film. As seen the production budget correlates highly with the profit made more than the number of movies made correlates with the total gross income. Focus on what is more important and here it is the production.Spend more money on producing the film, paying your crew than the number of films you produce. It is better to watch a film with great background and scenery, good actors and high quality video than many with none of these attributes.  
 
-From the analysis of genre, focus on movies with the genre type Drama, Action, Comedy as seen these were the best three genres and also the most produced
+From the analysis of genre, focus on movies with the genre type Drama, Action, Comedy as seen these were the best three genres and also the most produced,specifically  the Action, Adventure, Sci-Fi combination seems to appear a lot. 
 
-This analysis can be found on the student.ipynb file and in the presentation.pdf.
+This analysis can be found on the ![student.ipynb file](student.ipynb) and in the ![presentation.pdf.](presentation.pdf) 
+If you need to run the code be sure to unzip the zipped file and also the rest of the data is inside the folder.
 
 To conclude I leave two quotes,
 
